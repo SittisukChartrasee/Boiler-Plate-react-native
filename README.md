@@ -1,6 +1,6 @@
-## Boiler Plate React Native
+# Boiler Plate React Native
 
-# install all below
+### install all below
 
 * react native
 * redux
