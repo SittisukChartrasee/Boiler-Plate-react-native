@@ -7,28 +7,24 @@
 * react-redux
 * [wix navigator](#wix-navigator)
 
-## Technical impotant!!
+### Technical impotant!!
 * [redux-devtools-extension](#redux-devtools-extension)
 * [High order can use origin static](#high-order-can-use-origin-static)
 * [babel 2016 support decorator!!](#babel-preset-react-native-stage-0)
 
-## babel 2016 support decorator!!
+### babel 2016 support decorator!!
 * yarn add babel-preset-react-native-stage-0
 
-## redux-devtools-extension
+### redux-devtools-extension
 import { composeWithDevTools } from 'redux-devtools-extension/developmentOnly'
 
-## wix-navigator
+### wix-navigator
 yarn add react-native-navigation@latest
 
-## High order can use origin static
+### High order can use origin static
 * yarn add hoist-non-react-statics
 
 
-##
-
-### Create By Sittisuk
-
-SittisukChartrasee/Boiler-Plate-react-native project
+@copyright 2018@SittisukChartrasee/Boiler-Plate-react-native project
 
 
