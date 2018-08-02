@@ -24,6 +24,8 @@ yarn add react-native-navigation@latest
 ## High order can use origin static
 * yarn add hoist-non-react-statics
 
+# SittisukChartrasee/Boiler-Plate-react-native project
+
 ##
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
