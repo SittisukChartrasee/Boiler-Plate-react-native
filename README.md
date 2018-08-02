@@ -12,7 +12,7 @@
 * hoist-non-react-statics
 * [babel 2016 support decorator!!](#babel-preset-react-native-stage-0)
 
-## babel-preset-react-native-stage-0
+## babel 2016 support decorator!!
 * yarn add babel-preset-react-native-stage-0
 
 ## redux-devtools-extension
