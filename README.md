@@ -10,7 +10,7 @@
 ### Technical impotant!!
 * [redux-devtools-extension](#redux-devtools-extension)
 * [High order can use origin static](#high-order-can-use-origin-static)
-* [babel 2016 support decorator!!](#babel-preset-react-native-stage-0)
+* [babel 2016 support decorator!!](#babel 2016 support decorator)
 
 ### babel 2016 support decorator!!
 * yarn add babel-preset-react-native-stage-0
