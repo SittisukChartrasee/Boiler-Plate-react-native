@@ -9,7 +9,7 @@
 
 ## Technical impotant!!
 * [redux-devtools-extension](#redux-devtools-extension)
-* hoist-non-react-statics
+* [High order can use origin static](#high-order-can-use-origin-static)
 * [babel 2016 support decorator!!](#babel-preset-react-native-stage-0)
 
 ## babel 2016 support decorator!!
@@ -20,6 +20,11 @@ import { composeWithDevTools } from 'redux-devtools-extension/developmentOnly'
 
 ## wix-navigator
 yarn add react-native-navigation@latest
+
+## High order can use origin static
+* yarn add hoist-non-react-statics
+
+##
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
