@@ -5,11 +5,12 @@
 * redux
 * redux-thunk
 * react-redux
-* [wix navigator](#wix navigator)
+* [wix-navigator](#wix navigator)
 
 ## Technical impotant!!
 * [redux-devtools-extension](#redux-devtools-extension)
 * hoist-non-react-statics
+* [react native support decorator!!]
 
 ##
 
