@@ -5,7 +5,7 @@
 * redux
 * redux-thunk
 * react-redux
-* [wix-navigator](#wix navigator)
+* [wix navigator](#wix-navigator)
 
 ## Technical impotant!!
 * [redux-devtools-extension](#redux-devtools-extension)
@@ -17,7 +17,7 @@
 ## redux-devtools-extension
 import { composeWithDevTools } from 'redux-devtools-extension/developmentOnly'
 
-## wix navigator
+## wix-navigator
 yarn add react-native-navigation@latest
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
