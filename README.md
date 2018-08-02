@@ -10,9 +10,10 @@
 ## Technical impotant!!
 * [redux-devtools-extension](#redux-devtools-extension)
 * hoist-non-react-statics
-* [react native support decorator!!]
+* [babel 2016 support decorator!!](#babel-preset-react-native-stage-0)
 
-##
+## babel-preset-react-native-stage-0
+* yarn add babel-preset-react-native-stage-0
 
 ## redux-devtools-extension
 import { composeWithDevTools } from 'redux-devtools-extension/developmentOnly'
@@ -23,6 +24,8 @@ yarn add react-native-navigation@latest
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
+
+##
 
 ## Table of Contents
 
